@@ -1,7 +1,11 @@
-- 👋 Hi, I’m @Sabarinathan
+👋 Hi, I’m @Sabarinathan
+
 🌱 I completed of my PGP Data Science program from Great Lakes Institute of Management.
+
 🔭 I previously worked as a Program Analyst at Cognizant
+
 🤔 I’m looking for New opportunities as a Data Analyst or Data Scientist
+
 📫 How to reach me: Linkedin, email
 
 Email: sabarinathanvel007@outlook.com
