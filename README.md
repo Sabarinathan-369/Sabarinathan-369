@@ -1,4 +1,4 @@
-👋 Hi, I’m @Sabarinathan
+👋 Hi, I’m V.Sabarinathan
 
 🌱 I completed of my PGP Data Science program from Great Lakes Institute of Management.
 
